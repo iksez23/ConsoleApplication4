@@ -9,6 +9,8 @@ int main()
     wtrekteklhj
     123
         lklklojo
+        rjhry
+        gergeh
         143423525
 }
 
