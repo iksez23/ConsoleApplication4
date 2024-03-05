@@ -9,6 +9,7 @@ int main()
     wtrekteklhj
     123
         lklklojo
+        rjhry
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
